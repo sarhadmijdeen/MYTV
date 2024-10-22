@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MYTV/static/css/main.5e377245.css",
-    "main.js": "/MYTV/static/js/main.6c870b8f.js",
+    "main.js": "/MYTV/static/js/main.215ceb99.js",
     "index.html": "/MYTV/index.html",
     "main.5e377245.css.map": "/MYTV/static/css/main.5e377245.css.map",
-    "main.6c870b8f.js.map": "/MYTV/static/js/main.6c870b8f.js.map"
+    "main.215ceb99.js.map": "/MYTV/static/js/main.215ceb99.js.map"
   },
   "entrypoints": [
     "static/css/main.5e377245.css",
-    "static/js/main.6c870b8f.js"
+    "static/js/main.215ceb99.js"
   ]
 }
